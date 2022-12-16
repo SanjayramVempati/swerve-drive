@@ -1,0 +1,24 @@
+{
+  "LiveWindow": {
+    "DrivetrainSubsystem": {
+      "open": true
+    },
+    "open": true
+  },
+  "NetworkTables Settings": {
+    "mode": "Client",
+    "serverTeam": "localhost"
+  },
+  "Shuffleboard": {
+    "Drivetrain": {
+      "Back Left Module": {
+        "open": true
+      },
+      "Back Right Module": {
+        "open": true
+      },
+      "open": true
+    },
+    "open": true
+  }
+}
